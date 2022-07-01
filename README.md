@@ -1,4 +1,4 @@
-# RestaurantRecommenderSystem
+# Restaurant Recommender System
 
 Building a Restaurant Recommender System using Machine Learning with NLTK. Data is from Kaggle.
 
